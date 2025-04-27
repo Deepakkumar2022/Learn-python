@@ -9,3 +9,4 @@ Principal = int (input('Enter Principal Amount: '))
 Time = int (input('Enter time/duration: '))
 Rate_of_Interest = float (input('Enter Rate of Interest: '))
 print(Principal*Rate_of_Interest*Time/100)
+
